@@ -1,6 +1,6 @@
 # KafkaRestConsumer
 
-Kafka Rest Api cosnumer only for training purpose.
+Kafka Rest Api cosnumer, created only for training purpose.
  
 
 
